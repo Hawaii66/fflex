@@ -1,6 +1,7 @@
 import { getFreeDays } from "@/lib/api";
 import {
   addMonths,
+  differenceInSeconds,
   eachDayOfInterval,
   endOfMonth,
   format,
@@ -10,6 +11,8 @@ import { useContext, useEffect, useState } from "react";
 import { MultiSelect } from "./multi-select";
 import { User } from "@/types";
 import { CookieContext } from "@/API";
+import { Label } from "./ui/label";
+import { Checkbox } from "./ui/checkbox";
 
 const start = startOfMonth(new Date());
 const end = endOfMonth(addMonths(new Date(), 1));
@@ -17,6 +20,7 @@ const end = endOfMonth(addMonths(new Date(), 1));
 export default function FreeDays() {
   const [users, setUsers] = useState<User[]>([]);
   const [groups, setGroups] = useState<{ name: string; ids: string[] }[]>([]);
+  const [showTime, setShowTime] = useState(false);
 
   const [filteredUsers, setFilteredUsers] = useState<string[]>([]);
   const [filteredGroups, setFilteredGroups] = useState<string[]>([]);
@@ -75,7 +79,7 @@ export default function FreeDays() {
           placeholder="Filter users"
         />
       </div>
-      <div className="p-4 pt-0 w-full">
+      <div className="p-4 pb-2 w-full">
         <MultiSelect
           options={groups.map((i) => ({
             label: i.name,
@@ -85,6 +89,14 @@ export default function FreeDays() {
           placeholder="Filter groups"
         />
       </div>
+      <div className="flex flex-row justify-start items-center gap-2 p-4 pt-0 w-full">
+        <Label className="pl-4 text-muted-foreground text-sm">Visa tider</Label>
+        <Checkbox
+          checked={showTime}
+          onCheckedChange={(s) => typeof s === "boolean" && setShowTime(s)}
+        />
+      </div>
+
       <div
         className="relative grid p-4 pl-0 overflow-scroll"
         style={{
@@ -124,15 +136,21 @@ export default function FreeDays() {
                 {user.name}
               </p>
               {user.schedule.map((s) => (
-                <p
-                  key={user.id + format(s.date, "yyyyMMdd")}
-                  className="flex justify-center items-center m-2 p-2 rounded-sm h-16 text-center"
+                <div
                   style={{
                     backgroundColor: s.color,
                   }}
+                  className="flex flex-col justify-center items-center m-2 p-2 rounded-sm h-16 text-center"
                 >
-                  {s.description}
-                </p>
+                  <p key={user.id + format(s.date, "yyyyMMdd")}>
+                    {s.description}
+                  </p>
+                  {differenceInSeconds(s.from, s.to) !== 0 && showTime && (
+                    <p>
+                      {format(s.from, "hh:mm")}-{format(s.to, "hh:mm")}
+                    </p>
+                  )}
+                </div>
               ))}
             </>
           ))}
