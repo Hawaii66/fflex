@@ -6,9 +6,10 @@ import {
   format,
   startOfMonth,
 } from "date-fns";
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import { MultiSelect } from "./multi-select";
 import { User } from "@/types";
+import { CookieContext } from "@/API";
 
 const start = startOfMonth(new Date());
 const end = endOfMonth(addMonths(new Date(), 1));
@@ -21,15 +22,20 @@ export default function FreeDays() {
   const [filteredGroups, setFilteredGroups] = useState<string[]>([]);
 
   const [loading, setLoading] = useState(true);
+  const cookies = useContext(CookieContext);
 
   useEffect(() => {
     const load = async () => {
-      const users = await getFreeDays({
-        start: format(start, "yyyy-MM-dd"),
-        end: format(end, "yyyy-MM-dd"),
-      });
+      const users = await getFreeDays(
+        {
+          start: format(start, "yyyy-MM-dd"),
+          end: format(end, "yyyy-MM-dd"),
+        },
+        cookies
+      );
+      const user = users.flatMap((i) => i.EmployeeScheduleDetailRows);
       setUsers(
-        users.EmployeeScheduleDetailRows.map((i) => ({
+        user.map((i) => ({
           id: i.Employee.EmployeeId,
           name: `${i.Employee.FirstName} ${i.Employee.LastName}`,
           schedule: i.ScheduleDetailBubbleList.map((i) => ({

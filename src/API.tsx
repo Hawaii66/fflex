@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { createContext, useEffect, useRef, useState } from "react";
 import { Children } from "./types";
 import { Label } from "./components/ui/label";
 import { Input } from "./components/ui/input";
@@ -27,27 +27,46 @@ const parseCookie = (cookieString: string) => {
     auth2 === undefined ||
     auth2.trim().length === 0
   ) {
-    return false;
+    return null;
   }
-  document.cookie = `HRMMobileFedauth=${auth1}`;
-  document.cookie = `HRMMobileFedauth1=${ensureBase64Padding(auth2)}`;
-  return true;
+  return {
+    cookie: `HRMMobileFedauth=${auth1}`,
+    cookie1: `HRMMobileFedauth1=${ensureBase64Padding(auth2)}`,
+  };
 };
+
+export type CookieF = {
+  cookie: string;
+  cookie1: string;
+};
+
+export const CookieContext = createContext<CookieF[]>([]);
 
 const secretPassword = "fflex";
 
 export function APIWrapper({ children }: Children) {
   const [hasToken, setHasToken] = useState(false);
   const [password, setPassword] = useState("");
+  const [cookies, setCookies] = useState<CookieF[]>([]);
+
+  const isLoading = useRef(false);
 
   useEffect(() => {
-    const t = async () => {
-      const cookie = await fetch("/cookie.txt");
+    if (isLoading.current) return;
+
+    isLoading.current = true;
+    console.log("Load cookies");
+    const loadCookie = async (str: string) => {
+      console.log("loading cookie", str);
+      const cookie = await fetch(str);
       const text = await cookie.text();
-      parseCookie(text);
+      const t = parseCookie(text);
+      if (!t) return;
+      setCookies((o) => [...o, t]);
       setHasToken(true);
     };
-    t();
+    loadCookie("/cookie.txt");
+    loadCookie("/cookie2.txt");
   }, []);
 
   if (password !== secretPassword) {
@@ -67,5 +86,7 @@ export function APIWrapper({ children }: Children) {
     return <p>Error loading</p>;
   }
 
-  return children;
+  return (
+    <CookieContext.Provider value={cookies}> {children}</CookieContext.Provider>
+  );
 }

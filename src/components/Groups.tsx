@@ -1,7 +1,7 @@
 import { getFreeDays } from "@/lib/api";
 import { User } from "@/types";
 import { format } from "date-fns";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useContext } from "react";
 import { MultiSelect } from "./multi-select";
 import { Separator } from "./ui/separator";
 import { Button } from "./ui/button";
@@ -14,6 +14,7 @@ import {
   CardTitle,
 } from "./ui/card";
 import { Trash } from "lucide-react";
+import { CookieContext } from "@/API";
 
 const start = new Date("2025-01-01");
 const end = new Date("2025-02-28");
@@ -24,14 +25,20 @@ export default function Groups() {
   const [filteredUsers, setFilteredUsers] = useState<string[]>([]);
   const [name, setName] = useState("");
 
+  const cookies = useContext(CookieContext);
+
   useEffect(() => {
     const load = async () => {
-      const users = await getFreeDays({
-        start: format(start, "yyyy-MM-dd"),
-        end: format(end, "yyyy-MM-dd"),
-      });
+      const users = await getFreeDays(
+        {
+          start: format(start, "yyyy-MM-dd"),
+          end: format(end, "yyyy-MM-dd"),
+        },
+        cookies
+      );
+      const user = users.flatMap((i) => i.EmployeeScheduleDetailRows);
       setUsers(
-        users.EmployeeScheduleDetailRows.map((i) => ({
+        user.map((i) => ({
           id: i.Employee.EmployeeId,
           name: `${i.Employee.FirstName} ${i.Employee.LastName}`,
           schedule: i.ScheduleDetailBubbleList.map((i) => ({

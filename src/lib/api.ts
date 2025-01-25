@@ -1,3 +1,5 @@
+import { CookieF } from "@/API";
+
 type Settings = {
   method: "GET" | "POST";
   body?: object;
@@ -35,32 +37,68 @@ export const testConnection = async () => {
   return false;
 };
 
-export const getFreeDays = async ({
-  end,
-  start,
-}: {
-  start: string;
-  end: string;
-}) => {
-  const response = await makeHRMRequest({
-    method: "POST",
-    url: "/Arbetspass/GetEmployeeScheduleDetailsRows",
-    body: {
-      FromDate: start,
-      ToDate: end,
-      EmployeeSelectionFilter: {
-        TimegroupId: null,
-        Accountings: [],
-      },
-      AccountingId: "",
-      OnlyWorkingAtDates: false,
-      PageSize: 500,
-      SearchWord: "",
-      IsBemanning: true,
-    },
-  });
+export const getFreeDays = async (
+  {
+    end,
+    start,
+  }: {
+    start: string;
+    end: string;
+  },
+  cookies: CookieF[]
+) => {
+  console.log("Get free days", start, end, cookies);
+  const withC = async (cookie: CookieF) => {
+    console.log("with cookies", cookie);
+    document.cookie.split(";").forEach(function (c) {
+      document.cookie = c
+        .replace(/^ +/, "")
+        .replace(/=.*/, "=;expires=" + new Date().toUTCString() + ";path=/");
+    });
 
-  const json: {
+    document.cookie = cookie.cookie;
+    document.cookie = cookie.cookie1;
+
+    const response = await makeHRMRequest({
+      method: "POST",
+      url: "/Arbetspass/GetEmployeeScheduleDetailsRows",
+      body: {
+        FromDate: start,
+        ToDate: end,
+        EmployeeSelectionFilter: {
+          TimegroupId: null,
+          Accountings: [],
+        },
+        AccountingId: "",
+        OnlyWorkingAtDates: false,
+        PageSize: 500,
+        SearchWord: "",
+        IsBemanning: true,
+      },
+    });
+
+    const json: {
+      EmployeeScheduleDetailRows: {
+        Employee: {
+          EmployeeId: string;
+          FirstName: string;
+          LastName: string;
+        };
+        ScheduleDetailBubbleList: {
+          Date: string;
+          FromTime: string;
+          ToTime: string;
+          Description: string;
+          Color: {
+            BackgroundColor: string;
+          };
+        }[];
+      }[];
+    } = await response.json();
+    return json;
+  };
+
+  const res: {
     EmployeeScheduleDetailRows: {
       Employee: {
         EmployeeId: string;
@@ -77,8 +115,11 @@ export const getFreeDays = async ({
         };
       }[];
     }[];
-  } = await response.json();
-  return json;
+  }[] = [];
+  for (let i = 0; i < cookies.length; i++) {
+    res.push(await withC(cookies[i]));
+  }
+  return res;
 };
 
 export const getGeoLocations = async () => {
