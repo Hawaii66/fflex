@@ -117,7 +117,12 @@ export const getFreeDays = async (
     }[];
   }[] = [];
   for (let i = 0; i < cookies.length; i++) {
-    res.push(await withC(cookies[i]));
+    try {
+      const users = await withC(cookies[i]);
+      res.push(users);
+    } catch (e) {
+      console.log("Error with cookie", e);
+    }
   }
   return res;
 };
