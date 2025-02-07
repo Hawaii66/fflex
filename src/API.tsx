@@ -66,7 +66,6 @@ export function APIWrapper({ children }: Children) {
       setHasToken(true);
     };
     loadCookie("/cookie.txt");
-    loadCookie("/cookie2.txt");
   }, []);
 
   if (password !== secretPassword) {

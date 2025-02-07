@@ -1,11 +1,10 @@
 import { getFreeDays } from "@/lib/api";
 import {
-  addMonths,
+  addDays,
   differenceInSeconds,
   eachDayOfInterval,
-  endOfMonth,
   format,
-  startOfMonth,
+  subDays,
 } from "date-fns";
 import { useContext, useEffect, useState } from "react";
 import { MultiSelect } from "./multi-select";
@@ -13,9 +12,10 @@ import { User } from "@/types";
 import { CookieContext } from "@/API";
 import { Label } from "./ui/label";
 import { Checkbox } from "./ui/checkbox";
+import useLoadingDots from "@/lib/useLoadingDots";
 
-const start = startOfMonth(new Date());
-const end = endOfMonth(addMonths(new Date(), 1));
+const start = subDays(new Date(), 3);
+const end = addDays(new Date(), 30);
 
 export default function FreeDays() {
   const [users, setUsers] = useState<User[]>([]);
