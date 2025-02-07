@@ -12,7 +12,6 @@ import { User } from "@/types";
 import { CookieContext } from "@/API";
 import { Label } from "./ui/label";
 import { Checkbox } from "./ui/checkbox";
-import useLoadingDots from "@/lib/useLoadingDots";
 
 const start = subDays(new Date(), 3);
 const end = addDays(new Date(), 30);
