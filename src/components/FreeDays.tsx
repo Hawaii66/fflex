@@ -1,4 +1,3 @@
-import { getFreeDays } from "@/lib/api";
 import {
   addDays,
   differenceInSeconds,
@@ -6,10 +5,9 @@ import {
   format,
   subDays,
 } from "date-fns";
-import { useContext, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { MultiSelect } from "./multi-select";
 import { User } from "@/types";
-import { CookieContext } from "@/API";
 import { Label } from "./ui/label";
 import { Checkbox } from "./ui/checkbox";
 
@@ -18,6 +16,7 @@ const end = addDays(new Date(), 30);
 
 export default function FreeDays() {
   const [users, setUsers] = useState<User[]>([]);
+  const [lastUpdated, setLastUpdated] = useState("");
   const [groups, setGroups] = useState<{ name: string; ids: string[] }[]>([]);
   const [showTime, setShowTime] = useState(false);
 
@@ -25,20 +24,32 @@ export default function FreeDays() {
   const [filteredGroups, setFilteredGroups] = useState<string[]>([]);
 
   const [loading, setLoading] = useState(true);
-  const cookies = useContext(CookieContext);
 
   useEffect(() => {
     const load = async () => {
-      const users = await getFreeDays(
-        {
-          start: format(start, "yyyy-MM-dd"),
-          end: format(end, "yyyy-MM-dd"),
-        },
-        cookies
-      );
-      const user = users.flatMap((i) => i.EmployeeScheduleDetailRows);
+      const data: {
+        lastUpdated: string;
+        users: {
+          Employee: {
+            EmployeeId: string;
+            FirstName: string;
+            LastName: string;
+          };
+          ScheduleDetailBubbleList: {
+            Date: string;
+            FromTime: string;
+            ToTime: string;
+            Description: string;
+            Color: {
+              BackgroundColor: string;
+            };
+          }[];
+        }[];
+      } = await (await fetch("./schedule.json")).json();
+
+      setLastUpdated(data.lastUpdated);
       setUsers(
-        user.map((i) => ({
+        data.users.map((i) => ({
           id: i.Employee.EmployeeId,
           name: `${i.Employee.FirstName} ${i.Employee.LastName}`,
           schedule: i.ScheduleDetailBubbleList.map((i) => ({
@@ -95,6 +106,9 @@ export default function FreeDays() {
           onCheckedChange={(s) => typeof s === "boolean" && setShowTime(s)}
         />
       </div>
+      <h1 className="pl-4 font-bold text-black text-md">
+        Last updated: {lastUpdated}
+      </h1>
 
       <div
         className="relative grid p-4 pl-0 overflow-scroll"
@@ -108,7 +122,7 @@ export default function FreeDays() {
         {eachDayOfInterval({ start, end }).map((day) => (
           <p
             key={format(day, "yyyyMMdd")}
-            className="font-bold text-center text-sm"
+            className="font-bold text-sm text-center"
           >
             {format(day, "yyyy-MM-dd EEE I")}
           </p>
@@ -130,7 +144,7 @@ export default function FreeDays() {
             <>
               <p
                 key={user.id}
-                className="text-right left-0 sticky flex justify-end items-center bg-white pr-2 font-semibold text-sm"
+                className="left-0 sticky flex justify-end items-center bg-white pr-2 font-semibold text-sm text-right"
               >
                 {user.name}
               </p>
