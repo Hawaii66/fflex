@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-02-13",
+  "lastUpdated": "2025-02-14",
   "users": [
     {
       "Employee": {
@@ -10,24 +10,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -606,6 +588,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": null,
           "ToTime": null,
           "Description": null,
@@ -639,24 +639,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
           "ToTime": null,
@@ -1249,6 +1231,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -1266,24 +1266,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:30:00",
@@ -1877,6 +1859,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -1894,24 +1894,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T07:00:00",
@@ -2505,6 +2487,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Norra/Kalven/Kvill",
+          "Color": {
+            "BackgroundColor": "#F4B350",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -2522,24 +2522,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "East Express",
-          "Color": {
-            "BackgroundColor": "#666666",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T11:00:00",
@@ -3133,6 +3115,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -3150,24 +3150,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:15:00",
-          "Description": "Pulsen Express",
-          "Color": {
-            "BackgroundColor": "#CCFF99",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:45:00",
@@ -3761,6 +3743,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Barnens fjäll",
+          "Color": {
+            "BackgroundColor": "#FFFFFF",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": true
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -3778,24 +3778,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": "Önskar ledigt",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -3854,11 +3836,11 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Norra/Kalven/Kvill",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#F4B350",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -4389,6 +4371,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T07:00:00",
+          "ToTime": "1987-01-07T15:00:00",
+          "Description": "Norra/Kalven/Kvill",
+          "Color": {
+            "BackgroundColor": "#F4B350",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -4406,24 +4406,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Parliftarna",
-          "Color": {
-            "BackgroundColor": "#C5EFF7",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -5007,6 +4989,24 @@
           "Description": "Norra/Kalven/Kvill",
           "Color": {
             "BackgroundColor": "#F4B350",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Sol/ Teknik",
+          "Color": {
+            "BackgroundColor": "#FFCCFF",
             "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
@@ -5035,24 +5035,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
           "ToTime": null,
@@ -5645,6 +5627,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Color": {
+            "BackgroundColor": "#CC9966",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -5662,24 +5662,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -6273,6 +6255,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:15:00",
+          "Description": "Östra",
+          "Color": {
+            "BackgroundColor": "#22A7F0",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -6290,24 +6290,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Mio Express",
-          "Color": {
-            "BackgroundColor": "#D24D57",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -6901,6 +6883,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -6918,24 +6918,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#FFFFFF",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": true
-          },
-          "IsPartAbsent": true,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -7529,6 +7511,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:15:00",
+          "Description": "Pulsen Express",
+          "Color": {
+            "BackgroundColor": "#CCFF99",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -7546,24 +7546,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:30:00",
@@ -8157,6 +8139,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -8174,24 +8174,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -8785,6 +8767,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T07:30:00",
+          "ToTime": "1987-01-07T18:00:00",
+          "Description": "Mio Express",
+          "Color": {
+            "BackgroundColor": "#D24D57",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -8802,24 +8802,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:45:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Förbindelsen ",
-          "Color": {
-            "BackgroundColor": "#FFFFFF",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": true
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -9344,13 +9326,13 @@
         },
         {
           "Date": "2025-03-12T00:00:00",
-          "FromTime": "1987-01-07T07:00:00",
-          "ToTime": "1987-01-07T14:48:00",
-          "Description": "Uttag XLD",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
           "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -9413,6 +9395,24 @@
           "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:15:00",
+          "Description": "Pulsen Express",
+          "Color": {
+            "BackgroundColor": "#CCFF99",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -9430,24 +9430,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Norra/Kalven/Kvill",
-          "Color": {
-            "BackgroundColor": "#F4B350",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -10041,6 +10023,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Lången/ Kvarten",
+          "Color": {
+            "BackgroundColor": "#446CB3",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -10058,24 +10058,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T09:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T07:00:00",
@@ -10669,6 +10651,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -10686,24 +10686,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T07:00:00",
-          "ToTime": "1987-01-07T16:00:00",
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -11297,6 +11279,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T07:00:00",
+          "ToTime": "1987-01-07T16:00:00",
+          "Description": "Troll/ Lines/ Laven",
+          "Color": {
+            "BackgroundColor": "#913D88",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -11314,24 +11314,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:45:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Glidarn",
-          "Color": {
-            "BackgroundColor": "#E9D460",
-            "ForegroundColor": "#000000",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -11910,6 +11892,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": null,
           "ToTime": null,
           "Description": null,
@@ -11943,24 +11943,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T07:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Lången/ Kvarten",
-          "Color": {
-            "BackgroundColor": "#446CB3",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
           "ToTime": null,
@@ -12553,6 +12535,24 @@
           "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "TSB",
+          "Color": {
+            "BackgroundColor": "#26A65B",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -12570,24 +12570,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Barnens fjäll",
-          "Color": {
-            "BackgroundColor": "#FFFFFF",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": true
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -13166,6 +13148,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": null,
           "ToTime": null,
           "Description": null,
@@ -13199,24 +13199,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
@@ -13809,6 +13791,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -13826,24 +13826,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T07:30:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "East Express",
-          "Color": {
-            "BackgroundColor": "#666666",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -14435,6 +14417,24 @@
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T07:30:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "East Express",
+          "Color": {
+            "BackgroundColor": "#666666",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
         }
@@ -14455,24 +14455,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
@@ -14638,11 +14620,11 @@
           "Date": "2025-02-20T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:00:00",
-          "Description": "Ravin/Grytan",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#52B3D9",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -14692,11 +14674,11 @@
           "Date": "2025-02-23T00:00:00",
           "FromTime": "1987-01-07T11:00:00",
           "ToTime": "1987-01-07T15:00:00",
-          "Description": "East Express",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#666666",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -14710,11 +14692,11 @@
           "Date": "2025-02-24T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#CC9966",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -15055,6 +15037,24 @@
           "Description": null,
           "Color": {
             "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Color": {
+            "BackgroundColor": "#CC9966",
             "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
@@ -15083,24 +15083,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "East Express",
-          "Color": {
-            "BackgroundColor": "#666666",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:00:00",
@@ -15693,6 +15675,24 @@
           "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T10:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "East Express",
+          "Color": {
+            "BackgroundColor": "#666666",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -15710,24 +15710,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -16306,6 +16288,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": null,
           "ToTime": null,
           "Description": null,
@@ -16339,24 +16339,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
           "ToTime": null,
@@ -16949,6 +16931,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -16966,24 +16966,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Ravin/Grytan",
-          "Color": {
-            "BackgroundColor": "#52B3D9",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -17577,6 +17559,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "East Express",
+          "Color": {
+            "BackgroundColor": "#666666",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -17594,24 +17594,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Ravin/Grytan",
-          "Color": {
-            "BackgroundColor": "#52B3D9",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T07:30:00",
@@ -18190,6 +18172,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Ledig på egen begäran",
+          "Color": {
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
           "Description": "Ledig på egen begäran",
@@ -18223,24 +18223,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Ravin/Grytan",
-          "Color": {
-            "BackgroundColor": "#52B3D9",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:00:00",
@@ -18833,6 +18815,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Ravin/Grytan",
+          "Color": {
+            "BackgroundColor": "#52B3D9",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -18850,24 +18850,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T09:00:00",
@@ -19461,6 +19443,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -19478,24 +19478,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T07:00:00",
-          "ToTime": "1987-01-07T14:48:00",
-          "Description": "Uttag XLD",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:45:00",
@@ -19554,11 +19536,11 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#CC9966",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -20089,6 +20071,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Color": {
+            "BackgroundColor": "#CC9966",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -20106,24 +20106,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Väggen",
-          "Color": {
-            "BackgroundColor": "#F89406",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -20717,6 +20699,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Color": {
+            "BackgroundColor": "#CC9966",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -20734,24 +20734,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#757575",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": true,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -21345,6 +21327,24 @@
           "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Väggen",
+          "Color": {
+            "BackgroundColor": "#F89406",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -21362,24 +21362,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Väggen",
-          "Color": {
-            "BackgroundColor": "#F89406",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -21958,6 +21940,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": "1987-01-07T07:00:00",
+          "ToTime": "1987-01-07T14:48:00",
+          "Description": "Uttag XLD",
+          "Color": {
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": "1987-01-07T07:00:00",
           "ToTime": "1987-01-07T14:48:00",
           "Description": "Uttag XLD",
@@ -21991,24 +21991,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Väggen",
-          "Color": {
-            "BackgroundColor": "#F89406",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:00:00",
@@ -22601,6 +22583,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T10:30:00",
+          "ToTime": "1987-01-07T14:30:00",
+          "Description": "Troll/ Lines/ Laven",
+          "Color": {
+            "BackgroundColor": "#913D88",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -22618,24 +22618,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T10:30:00",
-          "ToTime": "1987-01-07T14:30:00",
-          "Description": "Väggen",
-          "Color": {
-            "BackgroundColor": "#F89406",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -22694,11 +22676,11 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": null,
           "ToTime": null,
-          "Description": null,
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -23214,6 +23196,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": null,
           "ToTime": null,
           "Description": null,
@@ -23247,24 +23247,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": "Önskar ledigt",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
           "ToTime": null,
@@ -23322,14 +23304,14 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:00:00",
-          "Description": "Troll/ Lines/ Laven",
+          "Description": "Frånvaro",
           "Color": {
             "BackgroundColor": "#913D88",
             "ForegroundColor": "White",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
-          "IsPartAbsent": false,
+          "IsPartAbsent": true,
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": true,
@@ -23857,6 +23839,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -23874,24 +23874,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:45:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Glidarn",
-          "Color": {
-            "BackgroundColor": "#F89406",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T10:30:00",
@@ -24485,6 +24467,24 @@
           "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Väggen",
+          "Color": {
+            "BackgroundColor": "#F89406",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -24502,24 +24502,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -24578,10 +24560,10 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:45:00",
           "ToTime": "1987-01-07T17:00:00",
-          "Description": "Glidarn",
+          "Description": "Flera arbetspass",
           "Color": {
-            "BackgroundColor": "#F89406",
-            "ForegroundColor": "Black",
+            "BackgroundColor": "#757575",
+            "ForegroundColor": "White",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
@@ -25113,6 +25095,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T10:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Troll/ Lines/ Laven",
+          "Color": {
+            "BackgroundColor": "#913D88",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -25130,24 +25130,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Sol/ Teknik",
-          "Color": {
-            "BackgroundColor": "#FFCCFF",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -25741,6 +25723,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Väggen",
+          "Color": {
+            "BackgroundColor": "#F89406",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -25758,24 +25758,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Troll/ Lines/ Laven",
-          "Color": {
-            "BackgroundColor": "#913D88",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -26369,6 +26351,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Troll/ Lines/ Laven",
+          "Color": {
+            "BackgroundColor": "#913D88",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -26386,24 +26386,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "TSB",
-          "Color": {
-            "BackgroundColor": "#26A65B",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T07:00:00",
@@ -26997,6 +26979,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Lången/ Kvarten",
+          "Color": {
+            "BackgroundColor": "#446CB3",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -27014,24 +27014,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "TSB",
-          "Color": {
-            "BackgroundColor": "#26A65B",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -27625,6 +27607,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Ledig på egen begäran",
+          "Color": {
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -27642,24 +27642,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T10:30:00",
@@ -28244,6 +28226,24 @@
           "Color": {
             "BackgroundColor": "#ECECEC",
             "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Lången/ Kvarten",
+          "Color": {
+            "BackgroundColor": "#446CB3",
+            "ForegroundColor": "White",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
@@ -28271,24 +28271,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
           "ToTime": null,
@@ -28346,14 +28328,14 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:00:00",
-          "Description": "Lången/ Kvarten",
+          "Description": "Frånvaro",
           "Color": {
             "BackgroundColor": "#446CB3",
             "ForegroundColor": "White",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
-          "IsPartAbsent": false,
+          "IsPartAbsent": true,
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": true,
@@ -28879,6 +28861,24 @@
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "TSB",
+          "Color": {
+            "BackgroundColor": "#26A65B",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
         }
@@ -28899,24 +28899,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
@@ -29028,11 +29010,11 @@
           "Date": "2025-02-17T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#CC9966",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -29494,6 +29476,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "TSB",
+          "Color": {
+            "BackgroundColor": "#26A65B",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
           "Description": "TSB",
@@ -29527,24 +29527,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T10:30:00",
-          "ToTime": "1987-01-07T14:30:00",
-          "Description": "Troll/ Lines/ Laven",
-          "Color": {
-            "BackgroundColor": "#913D88",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
@@ -29602,10 +29584,10 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Description": "Flera arbetspass",
           "Color": {
-            "BackgroundColor": "#CC9966",
-            "ForegroundColor": "Black",
+            "BackgroundColor": "#757575",
+            "ForegroundColor": "White",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
@@ -30137,6 +30119,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T07:00:00",
+          "ToTime": "1987-01-07T14:00:00",
+          "Description": "Lången/ Kvarten",
+          "Color": {
+            "BackgroundColor": "#446CB3",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -30154,24 +30154,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T13:00:00",
-          "Description": "Sol/ Teknik",
-          "Color": {
-            "BackgroundColor": "#FFCCFF",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -30230,14 +30212,14 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "TSB",
+          "Description": "Frånvaro",
           "Color": {
             "BackgroundColor": "#26A65B",
             "ForegroundColor": "White",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
-          "IsPartAbsent": false,
+          "IsPartAbsent": true,
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": false,
@@ -30750,6 +30732,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": null,
           "ToTime": null,
           "Description": null,
@@ -30783,24 +30783,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:00:00",
@@ -30858,11 +30840,11 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T10:30:00",
           "ToTime": "1987-01-07T14:30:00",
-          "Description": "Troll/ Lines/ Laven",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#913D88",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -31378,6 +31360,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": null,
           "ToTime": null,
           "Description": null,
@@ -31411,24 +31411,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Lången/ Kvarten",
-          "Color": {
-            "BackgroundColor": "#446CB3",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:00:00",
@@ -32006,6 +31988,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": null,
           "ToTime": null,
           "Description": null,
@@ -32039,24 +32039,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
@@ -32649,6 +32631,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -32666,24 +32666,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Vinkel / Barn",
-          "Color": {
-            "BackgroundColor": "#E9D460",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -33277,6 +33259,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "West Express",
+          "Color": {
+            "BackgroundColor": "#BDC3C7",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -33294,24 +33294,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -33370,14 +33352,14 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Vinkel / Barn",
+          "Description": "Frånvaro",
           "Color": {
             "BackgroundColor": "#E9D460",
             "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
-          "IsPartAbsent": false,
+          "IsPartAbsent": true,
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": true,
@@ -33905,6 +33887,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -33922,24 +33922,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Vinkel / Barn",
-          "Color": {
-            "BackgroundColor": "#E9D460",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -33998,11 +33980,11 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#CC9966",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -34533,6 +34515,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Color": {
+            "BackgroundColor": "#CC9966",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -34550,24 +34550,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -35161,6 +35143,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -35178,24 +35178,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -35789,6 +35771,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Vinkel / Barn",
+          "Color": {
+            "BackgroundColor": "#E9D460",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -35806,24 +35806,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Flera arbetspass",
-          "Color": {
-            "BackgroundColor": "#757575",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -36096,11 +36078,11 @@
         },
         {
           "Date": "2025-02-26T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Vinkel / Barn",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
           "Color": {
-            "BackgroundColor": "#E9D460",
+            "BackgroundColor": "#ECECEC",
             "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
@@ -36108,7 +36090,7 @@
           "IsPartAbsent": false,
           "HasStandby": false,
           "HasOvertime": false,
-          "HasComment": true,
+          "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
         },
@@ -36169,12 +36151,12 @@
         {
           "Date": "2025-03-02T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T16:00:00",
-          "Description": "Ledig på egen begäran",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "West Express",
           "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
+            "BackgroundColor": "#BDC3C7",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -36417,6 +36399,24 @@
           "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T10:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Flera arbetspass",
+          "Color": {
+            "BackgroundColor": "#757575",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -36434,24 +36434,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "West Express",
-          "Color": {
-            "BackgroundColor": "#BDC3C7",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -37045,6 +37027,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "West Express",
+          "Color": {
+            "BackgroundColor": "#BDC3C7",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -37062,24 +37062,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "West Express",
-          "Color": {
-            "BackgroundColor": "#BDC3C7",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -37352,11 +37334,11 @@
         },
         {
           "Date": "2025-02-26T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Vinkel / Barn",
           "Color": {
-            "BackgroundColor": "#ECECEC",
+            "BackgroundColor": "#E9D460",
             "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
@@ -37364,7 +37346,7 @@
           "IsPartAbsent": false,
           "HasStandby": false,
           "HasOvertime": false,
-          "HasComment": false,
+          "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
         },
@@ -37424,11 +37406,11 @@
         },
         {
           "Date": "2025-03-02T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "West Express",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
           "Color": {
-            "BackgroundColor": "#BDC3C7",
+            "BackgroundColor": "#ECECEC",
             "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
@@ -37673,6 +37655,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Vinkel / Barn",
+          "Color": {
+            "BackgroundColor": "#E9D460",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -37690,24 +37690,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#757575",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": true,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -37766,14 +37748,14 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#CC9966",
+            "BackgroundColor": "#F4B350",
             "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
-          "IsPartAbsent": false,
+          "IsPartAbsent": true,
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": false,
@@ -38301,6 +38283,24 @@
           "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -38318,24 +38318,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T07:00:00",
-          "ToTime": "1987-01-07T16:00:00",
-          "Description": "Önskar ledigt",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -38929,6 +38911,24 @@
           "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T13:00:00",
+          "Description": "Sol/ Teknik",
+          "Color": {
+            "BackgroundColor": "#FFCCFF",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -38946,24 +38946,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -39557,6 +39539,24 @@
           "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Norra/Kalven/Kvill",
+          "Color": {
+            "BackgroundColor": "#F4B350",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -39574,24 +39574,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -40185,6 +40167,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -40202,24 +40202,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Norra/Kalven/Kvill",
-          "Color": {
-            "BackgroundColor": "#F4B350",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -40811,6 +40793,24 @@
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Sol/ Teknik",
+          "Color": {
+            "BackgroundColor": "#FFCCFF",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
         }
@@ -40831,24 +40831,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
           "ToTime": null,
@@ -41439,6 +41421,24 @@
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Frånvaro",
+          "Color": {
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
         }
@@ -41459,24 +41459,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:00:00",
@@ -42067,6 +42049,24 @@
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Sol/ Teknik",
+          "Color": {
+            "BackgroundColor": "#FFCCFF",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
         }
@@ -42087,24 +42087,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Norra/Kalven/Kvill",
-          "Color": {
-            "BackgroundColor": "#F4B350",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
           "ToTime": null,
@@ -42687,6 +42669,24 @@
           "Description": "Sol/ Teknik",
           "Color": {
             "BackgroundColor": "#FFCCFF",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
             "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
@@ -42715,24 +42715,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:00:00",
@@ -43325,6 +43307,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -43342,24 +43342,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Sol/ Teknik",
-          "Color": {
-            "BackgroundColor": "#FFCCFF",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -43953,6 +43935,24 @@
           "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T10:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Norra/Kalven/Kvill",
+          "Color": {
+            "BackgroundColor": "#F4B350",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -43970,24 +43970,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -44566,6 +44548,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": null,
           "ToTime": null,
           "Description": null,
@@ -44598,24 +44598,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -45209,6 +45191,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -45226,24 +45226,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -45302,11 +45284,11 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:00:00",
-          "Description": "Norra/Kalven/Kvill",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#F4B350",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -45837,6 +45819,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Norra/Kalven/Kvill",
+          "Color": {
+            "BackgroundColor": "#F4B350",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -45854,24 +45854,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Mio Express",
-          "Color": {
-            "BackgroundColor": "#D24D57",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -46465,6 +46447,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Parliftarna",
+          "Color": {
+            "BackgroundColor": "#C5EFF7",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -46482,24 +46482,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -46558,11 +46540,11 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:15:00",
-          "Description": "Pulsen Express",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#CCFF99",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -46576,11 +46558,11 @@
           "Date": "2025-02-15T00:00:00",
           "FromTime": "1987-01-07T10:00:00",
           "ToTime": "1987-01-07T15:00:00",
-          "Description": "Parliftarna",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#C5EFF7",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -46594,11 +46576,11 @@
           "Date": "2025-02-16T00:00:00",
           "FromTime": "1987-01-07T10:30:00",
           "ToTime": "1987-01-07T14:30:00",
-          "Description": "Pulsen Express",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#CCFF99",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -47083,6 +47065,24 @@
           "Description": "Resurs Lift Tandådalen/ Hundfjället",
           "Color": {
             "BackgroundColor": "#CC9966",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
             "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
@@ -47111,24 +47111,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T10:30:00",
-          "ToTime": "1987-01-07T14:30:00",
-          "Description": "Pulsen Express",
-          "Color": {
-            "BackgroundColor": "#CCFF99",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
           "ToTime": null,
@@ -47186,14 +47168,14 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T07:00:00",
           "ToTime": "1987-01-07T17:00:00",
-          "Description": "Flera arbetspass",
+          "Description": "Frånvaro",
           "Color": {
             "BackgroundColor": "#757575",
             "ForegroundColor": "White",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
-          "IsPartAbsent": false,
+          "IsPartAbsent": true,
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": true,
@@ -47721,6 +47703,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Color": {
+            "BackgroundColor": "#CC9966",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -47738,24 +47738,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -48334,6 +48316,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T16:00:00",
+          "Description": "Ledig på egen begäran",
+          "Color": {
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T16:00:00",
           "Description": "Ledig på egen begäran",
@@ -48366,24 +48366,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -48977,6 +48959,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:15:00",
+          "Description": "Pulsen Express",
+          "Color": {
+            "BackgroundColor": "#CCFF99",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -48994,24 +48994,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T10:00:00",
@@ -49070,14 +49052,14 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Flera arbetspass",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#757575",
+            "BackgroundColor": "#D24D57",
             "ForegroundColor": "White",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
-          "IsPartAbsent": false,
+          "IsPartAbsent": true,
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": false,
@@ -49605,6 +49587,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -49622,24 +49622,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:15:00",
-          "Description": "Pulsen Express",
-          "Color": {
-            "BackgroundColor": "#CCFF99",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -50233,6 +50215,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -50250,24 +50250,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:15:00",
-          "Description": "Pulsen Express",
-          "Color": {
-            "BackgroundColor": "#CCFF99",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -50861,6 +50843,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Parliftarna",
+          "Color": {
+            "BackgroundColor": "#C5EFF7",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -50878,24 +50878,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T10:30:00",
@@ -51487,6 +51469,24 @@
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:30:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Barnens fjäll",
+          "Color": {
+            "BackgroundColor": "#FFFFFF",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": true
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
         }
@@ -51507,24 +51507,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
           "ToTime": null,
@@ -52107,6 +52089,24 @@
           "Description": null,
           "Color": {
             "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Color": {
+            "BackgroundColor": "#CC9966",
             "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
@@ -52135,24 +52135,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Parliftarna",
-          "Color": {
-            "BackgroundColor": "#C5EFF7",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:15:00",
@@ -52730,6 +52712,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": null,
           "ToTime": null,
           "Description": null,
@@ -52762,24 +52762,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T07:30:00",
@@ -53373,6 +53355,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "West Express",
+          "Color": {
+            "BackgroundColor": "#BDC3C7",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -53390,24 +53390,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T07:30:00",
-          "ToTime": "1987-01-07T18:00:00",
-          "Description": "Mio Express",
-          "Color": {
-            "BackgroundColor": "#D24D57",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -54001,6 +53983,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:30:00",
+          "Description": "Östra",
+          "Color": {
+            "BackgroundColor": "#22A7F0",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -54018,24 +54018,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T10:30:00",
-          "ToTime": "1987-01-07T14:30:00",
-          "Description": "Mio Express",
-          "Color": {
-            "BackgroundColor": "#D24D57",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -54094,11 +54076,11 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Mio Express",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#D24D57",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -54629,6 +54611,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:15:00",
+          "Description": "Östra",
+          "Color": {
+            "BackgroundColor": "#22A7F0",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -54646,24 +54646,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -55257,6 +55239,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -55274,24 +55274,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:15:00",
-          "Description": "Östra",
-          "Color": {
-            "BackgroundColor": "#22A7F0",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -55885,6 +55867,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -55902,24 +55902,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:30:00",
-          "Description": "Östra",
-          "Color": {
-            "BackgroundColor": "#22A7F0",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T10:30:00",
@@ -55978,10 +55960,10 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:15:00",
-          "Description": "Östra",
+          "Description": "Pulsen Express",
           "Color": {
-            "BackgroundColor": "#22A7F0",
-            "ForegroundColor": "White",
+            "BackgroundColor": "#CCFF99",
+            "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
@@ -56503,6 +56485,24 @@
           "Description": "Östra",
           "Color": {
             "BackgroundColor": "#22A7F0",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T10:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Mio Express",
+          "Color": {
+            "BackgroundColor": "#D24D57",
             "ForegroundColor": "White",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
@@ -56531,24 +56531,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:15:00",
-          "Description": "Östra",
-          "Color": {
-            "BackgroundColor": "#22A7F0",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
@@ -57072,12 +57054,12 @@
         },
         {
           "Date": "2025-03-12T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:15:00",
+          "Description": "Östra",
           "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
+            "BackgroundColor": "#22A7F0",
+            "ForegroundColor": "White",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
@@ -57126,19 +57108,37 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:30:00",
-          "Description": "Östra",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
           "Color": {
-            "BackgroundColor": "#22A7F0",
-            "ForegroundColor": "White",
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
           "HasStandby": false,
           "HasOvertime": false,
-          "HasComment": true,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
         }
@@ -57158,24 +57158,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -57759,6 +57741,24 @@
           "Description": "Resurs Lift Tandådalen/ Hundfjället",
           "Color": {
             "BackgroundColor": "#CC9966",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
             "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
@@ -57787,24 +57787,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Mio Express",
-          "Color": {
-            "BackgroundColor": "#D24D57",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T07:30:00",
           "ToTime": "1987-01-07T18:00:00",
@@ -58382,6 +58364,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": null,
           "ToTime": null,
           "Description": null,
@@ -58415,24 +58415,6 @@
       },
       "ScheduleDetailBubbleList": [
         {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:15:00",
-          "Description": "Östra",
-          "Color": {
-            "BackgroundColor": "#22A7F0",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
-        {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:30:00",
@@ -58490,14 +58472,14 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#CC9966",
-            "ForegroundColor": "Black",
+            "BackgroundColor": "#D24D57",
+            "ForegroundColor": "White",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
-          "IsPartAbsent": false,
+          "IsPartAbsent": true,
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": false,
@@ -58956,12 +58938,12 @@
         },
         {
           "Date": "2025-03-12T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:15:00",
-          "Description": "Östra",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
           "Color": {
-            "BackgroundColor": "#22A7F0",
-            "ForegroundColor": "White",
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
@@ -59010,6 +58992,24 @@
         },
         {
           "Date": "2025-03-15T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:30:00",
+          "Description": "Östra",
+          "Color": {
+            "BackgroundColor": "#22A7F0",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
           "FromTime": null,
           "ToTime": null,
           "Description": null,
@@ -59042,24 +59042,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T10:00:00",
-          "ToTime": "1987-01-07T15:00:00",
-          "Description": "Parliftarna",
-          "Color": {
-            "BackgroundColor": "#C5EFF7",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -59653,6 +59635,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Mio Express",
+          "Color": {
+            "BackgroundColor": "#D24D57",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -59670,24 +59670,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "East Express",
-          "Color": {
-            "BackgroundColor": "#666666",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -60281,6 +60263,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Ravin/Grytan",
+          "Color": {
+            "BackgroundColor": "#52B3D9",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -60298,24 +60298,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Vinkel / Barn",
-          "Color": {
-            "BackgroundColor": "#E9D460",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:45:00",
@@ -60909,6 +60891,24 @@
           "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -60926,24 +60926,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -61537,6 +61519,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -61554,24 +61554,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T07:30:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "West Express",
-          "Color": {
-            "BackgroundColor": "#BDC3C7",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -62165,6 +62147,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Vinkel / Barn",
+          "Color": {
+            "BackgroundColor": "#E9D460",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": true,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -62182,24 +62182,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Lången/ Kvarten",
-          "Color": {
-            "BackgroundColor": "#446CB3",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -62793,6 +62775,24 @@
           "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -62810,24 +62810,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T17:00:00",
-          "Description": "Lången/ Kvarten",
-          "Color": {
-            "BackgroundColor": "#446CB3",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -62850,11 +62832,11 @@
           "Date": "2025-02-12T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T17:00:00",
-          "Description": "Frånvaro",
+          "Description": "Lången/ Kvarten",
           "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
+            "BackgroundColor": "#446CB3",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -62868,11 +62850,11 @@
           "Date": "2025-02-13T00:00:00",
           "FromTime": "1987-01-07T10:30:00",
           "ToTime": "1987-01-07T14:30:00",
-          "Description": "Frånvaro",
+          "Description": "Troll/ Lines/ Laven",
           "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
+            "BackgroundColor": "#913D88",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -62994,10 +62976,10 @@
           "Date": "2025-02-20T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Description": "Flera arbetspass",
           "Color": {
-            "BackgroundColor": "#CC9966",
-            "ForegroundColor": "Black",
+            "BackgroundColor": "#757575",
+            "ForegroundColor": "White",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
@@ -63421,6 +63403,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -63438,24 +63438,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -64049,6 +64031,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T17:00:00",
+          "Description": "Ravin/Grytan",
+          "Color": {
+            "BackgroundColor": "#52B3D9",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -64066,24 +64066,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": null,
-          "ToTime": null,
-          "Description": null,
-          "Color": {
-            "BackgroundColor": "#ECECEC",
-            "ForegroundColor": "Black",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": null,
@@ -64677,6 +64659,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Ledig på egen begäran",
+          "Color": {
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -64694,24 +64694,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T11:00:00",
-          "ToTime": "1987-01-07T15:00:00",
-          "Description": "East Express",
-          "Color": {
-            "BackgroundColor": "#666666",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": true,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T07:00:00",
@@ -64770,14 +64752,14 @@
           "Date": "2025-02-14T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Resurs Lift Tandådalen/ Hundfjället",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#CC9966",
-            "ForegroundColor": "Black",
+            "BackgroundColor": "#757575",
+            "ForegroundColor": "White",
             "BorderColor": "#CCCCCC",
             "UsesBorder": false
           },
-          "IsPartAbsent": false,
+          "IsPartAbsent": true,
           "HasStandby": false,
           "HasOvertime": false,
           "HasComment": false,
@@ -65305,6 +65287,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "East Express",
+          "Color": {
+            "BackgroundColor": "#666666",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -65322,24 +65322,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -65380,11 +65362,11 @@
           "Date": "2025-02-13T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
           "ToTime": "1987-01-07T18:30:00",
-          "Description": "Mio Express",
+          "Description": "Frånvaro",
           "Color": {
-            "BackgroundColor": "#D24D57",
-            "ForegroundColor": "White",
-            "BorderColor": "#CCCCCC",
+            "BackgroundColor": "#F44336",
+            "ForegroundColor": "#FFFFFF",
+            "BorderColor": "#F44336",
             "UsesBorder": false
           },
           "IsPartAbsent": false,
@@ -65933,6 +65915,24 @@
           "HasComment": false,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": "1987-01-07T08:00:00",
+          "ToTime": "1987-01-07T18:30:00",
+          "Description": "Mio Express",
+          "Color": {
+            "BackgroundColor": "#D24D57",
+            "ForegroundColor": "White",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -65950,24 +65950,6 @@
         "Picture": ""
       },
       "ScheduleDetailBubbleList": [
-        {
-          "Date": "2025-02-10T00:00:00",
-          "FromTime": "1987-01-07T08:00:00",
-          "ToTime": "1987-01-07T18:30:00",
-          "Description": "Frånvaro",
-          "Color": {
-            "BackgroundColor": "#F44336",
-            "ForegroundColor": "#FFFFFF",
-            "BorderColor": "#F44336",
-            "UsesBorder": false
-          },
-          "IsPartAbsent": false,
-          "HasStandby": false,
-          "HasOvertime": false,
-          "HasComment": false,
-          "HasEjbel": false,
-          "AnyExtraAccountToDisplay": false
-        },
         {
           "Date": "2025-02-11T00:00:00",
           "FromTime": "1987-01-07T08:00:00",
@@ -66561,6 +66543,24 @@
           "HasComment": true,
           "HasEjbel": false,
           "AnyExtraAccountToDisplay": false
+        },
+        {
+          "Date": "2025-03-16T00:00:00",
+          "FromTime": null,
+          "ToTime": null,
+          "Description": null,
+          "Color": {
+            "BackgroundColor": "#ECECEC",
+            "ForegroundColor": "Black",
+            "BorderColor": "#CCCCCC",
+            "UsesBorder": false
+          },
+          "IsPartAbsent": false,
+          "HasStandby": false,
+          "HasOvertime": false,
+          "HasComment": false,
+          "HasEjbel": false,
+          "AnyExtraAccountToDisplay": false
         }
       ],
       "AbsenceApplications": [],
@@ -66569,5 +66569,7 @@
       "IsBehorigGenomSammaHemkontering": true,
       "IsBehorigGenomSammaJobbarSammaKontering": true
     }
-  ]
+  ],
+  "start": "2025-02-11",
+  "end": "2025-03-16"
 }

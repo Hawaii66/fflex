@@ -1,24 +1,17 @@
-import {
-  addDays,
-  differenceInSeconds,
-  eachDayOfInterval,
-  format,
-  subDays,
-} from "date-fns";
+import { differenceInSeconds, eachDayOfInterval, format } from "date-fns";
 import { useEffect, useState } from "react";
 import { MultiSelect } from "./multi-select";
 import { User } from "@/types";
 import { Label } from "./ui/label";
 import { Checkbox } from "./ui/checkbox";
 
-const start = subDays(new Date(), 3);
-const end = addDays(new Date(), 30);
-
 export default function FreeDays() {
   const [users, setUsers] = useState<User[]>([]);
   const [lastUpdated, setLastUpdated] = useState("");
   const [groups, setGroups] = useState<{ name: string; ids: string[] }[]>([]);
   const [showTime, setShowTime] = useState(false);
+  const [start, setStart] = useState(new Date());
+  const [end, setEnd] = useState(new Date());
 
   const [filteredUsers, setFilteredUsers] = useState<string[]>([]);
   const [filteredGroups, setFilteredGroups] = useState<string[]>([]);
@@ -29,6 +22,8 @@ export default function FreeDays() {
     const load = async () => {
       const data: {
         lastUpdated: string;
+        start: string;
+        end: string;
         users: {
           Employee: {
             EmployeeId: string;
@@ -61,6 +56,8 @@ export default function FreeDays() {
           })),
         }))
       );
+      setStart(new Date(data.start));
+      setEnd(new Date(data.end));
 
       const groupRes = await fetch("/groups.json");
       setGroups(await groupRes.json());

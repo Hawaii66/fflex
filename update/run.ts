@@ -156,10 +156,12 @@ const run = async () => {
 
   const cookie1 = (await fs.readFile("./public/cookie.txt")).toString();
 
+  const start = format(subDays(new Date(), 3), "yyyy-MM-dd");
+  const end = format(addDays(new Date(), 30), "yyyy-MM-dd");
   const a = await getFreeDays(
     {
-      start: format(subDays(new Date(), 3), "yyyy-MM-dd"),
-      end: format(addDays(new Date(), 30), "yyyy-MM-dd"),
+      start,
+      end,
     },
     [parseCookie(cookie1)]
   );
@@ -168,6 +170,8 @@ const run = async () => {
   const formatted = {
     lastUpdated: format(new Date(), "yyyy-MM-dd"),
     users: a.flatMap((i) => i.EmployeeScheduleDetailRows),
+    start,
+    end,
   };
   await fs.writeFile(
     "./public/schedule.json",
