@@ -6,7 +6,12 @@ import Groups from "./components/Groups";
 import WorldMap from "./components/Map";
 
 function App() {
-  const [page, setPage] = useState("");
+  const [page, _setPage] = useState("");
+
+  const setPage = (p: string) => {
+    _setPage(p);
+    window.plausible("Page", { props: { page: p } });
+  };
 
   return (
     <APIWrapper>

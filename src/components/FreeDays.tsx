@@ -4,7 +4,14 @@ import { MultiSelect } from "./multi-select";
 import { User } from "@/types";
 import { Label } from "./ui/label";
 import { Checkbox } from "./ui/checkbox";
-
+declare global {
+  interface Window {
+    plausible: (
+      event: string,
+      options?: { props?: Record<string, unknown> }
+    ) => void;
+  }
+}
 export default function FreeDays() {
   const [users, setUsers] = useState<User[]>([]);
   const [lastUpdated, setLastUpdated] = useState("");
@@ -73,7 +80,6 @@ export default function FreeDays() {
       </div>
     );
   }
-
   return (
     <div>
       <div className="p-4 pb-2 w-full">
@@ -82,7 +88,10 @@ export default function FreeDays() {
             label: i.name,
             value: i.id,
           }))}
-          onValueChange={setFilteredUsers}
+          onValueChange={(s) => {
+            setFilteredUsers(s);
+            window.plausible("Filter users", { props: { users: s } });
+          }}
           placeholder="Filter users"
         />
       </div>
@@ -92,7 +101,10 @@ export default function FreeDays() {
             label: i.name,
             value: i.name,
           }))}
-          onValueChange={setFilteredGroups}
+          onValueChange={(s) => {
+            setFilteredGroups(s);
+            window.plausible("Filter groups", { props: { groups: s } });
+          }}
           placeholder="Filter groups"
         />
       </div>
@@ -100,7 +112,12 @@ export default function FreeDays() {
         <Label className="pl-4 text-muted-foreground text-sm">Visa tider</Label>
         <Checkbox
           checked={showTime}
-          onCheckedChange={(s) => typeof s === "boolean" && setShowTime(s)}
+          onCheckedChange={(s) => {
+            if (typeof s === "boolean") {
+              setShowTime(s);
+              window.plausible("Show time", { props: { showTime: s } });
+            }
+          }}
         />
       </div>
       <h1 className="pl-4 font-bold text-black text-md">
@@ -147,6 +164,7 @@ export default function FreeDays() {
               </p>
               {user.schedule.map((s) => (
                 <div
+                  key={format(s.date, "yyyyMMdd") + user.id}
                   style={{
                     backgroundColor: s.color,
                   }}
@@ -157,7 +175,7 @@ export default function FreeDays() {
                   </p>
                   {differenceInSeconds(s.from, s.to) !== 0 && showTime && (
                     <p>
-                      {format(s.from, "hh:mm")}-{format(s.to, "hh:mm")}
+                      {format(s.from, "HH:mm")}-{format(s.to, "HH:mm")}
                     </p>
                   )}
                 </div>
